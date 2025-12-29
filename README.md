@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+### LeetCode Stats
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=tim01324&theme=dark)
 <!--
 **tim01324/tim01324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
